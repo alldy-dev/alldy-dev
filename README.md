@@ -6,7 +6,7 @@ With more than 10 years in technology, today I work as an **Implementation Analy
 
 ## 🚀 Featured project
 
-**[Personal Portfolio]**: built from scratch with vanilla HTML, CSS and JavaScript.
+**Personal Portfolio**: built from scratch with vanilla HTML, CSS and JavaScript.
 - Responsive layout (mobile-first)
 - Light and dark theme, saved with `localStorage`
 - Translation system in 3 languages (PT, ES, EN)
